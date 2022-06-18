@@ -1,0 +1,11 @@
+{
+  "name": "winner_picker",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jrej",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
